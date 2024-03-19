@@ -29,6 +29,4 @@ Tambien podemos visualizar la pagina en el siguiente enlace: https://proyecto-ko
 
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Puedes enviar solicitudes de extracción para sugerir mejoras, corregir errores o agregar nuevas funcionalidades.
 
-## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
